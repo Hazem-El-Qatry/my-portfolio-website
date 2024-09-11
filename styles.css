@@ -369,7 +369,6 @@ header {
 .skills {
   .holder-blue {
     background-color: var(--blue-100);
-    display: flex;
     padding: 30px;
     border-radius: 30px;
     -webkit-border-radius: 30px;
